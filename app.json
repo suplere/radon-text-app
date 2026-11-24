@@ -39,6 +39,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "b01e7fef-08ef-479e-81ba-9d7c580dfb17"
+      }
+    },
+    "owner": "servicefuttec"
   }
 }

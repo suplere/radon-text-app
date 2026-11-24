@@ -5,7 +5,17 @@
       "request": "launch",
       "name": "Radon IDE panel",
       "isExpo": true,
-      "appRoot": "./"
+      "appRoot": "./",
+      "eas": {
+        "ios": {
+          "profile": "ios-simulator",
+          "local": true
+        },
+        "android": {
+          "profile": "development",
+          "local": true
+        }
+      }
     }
   ]
 }

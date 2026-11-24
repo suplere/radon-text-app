@@ -22,7 +22,7 @@ export default function HomeScreen() {
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 1: Try it</ThemedText>
+        <ThemedText type="subtitle">Step 1: Try</ThemedText>
         <ThemedText>
           Editovat{" "}
           <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText>{" "}
@@ -34,7 +34,7 @@ export default function HomeScreen() {
               web: "F12",
             })}
           </ThemedText>{" "}
-          to open developer tools.
+          to open developer toolsssdsdsdsds.
         </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
